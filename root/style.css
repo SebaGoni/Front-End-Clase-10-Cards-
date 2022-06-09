@@ -1,0 +1,131 @@
+/*HEADER*/
+.rectangulo1-header {
+    height: 38px;
+    width: 1016px;
+    background: #1CD1B0;
+    display: flex;
+    align-items: center;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 700;
+    margin: 0px;
+    padding-left: 8px;
+}
+.rectangulo2-header {
+    height: 101px;
+    width: 1004px;
+    background: #00669F;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 100px;
+    padding-left: 20px;
+}
+/*MAIN*/
+
+.card-1 {
+    position: relative;
+    width: 300px;
+    height: 529px;
+    background: #F3F3F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10% 10% 0% 0%;
+    margin-left: 32px;
+}
+.card-2 {
+    position: relative;
+    width: 300px;
+    height: 529px;
+    background: #F3F3F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10% 10% 0% 0%;
+    left: 360px;
+    bottom: 529px;
+}
+.card-3 {
+    position: relative;
+    width: 300px;
+    height: 529px;
+    background: #F3F3F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10% 10% 0% 0%;
+    left: 330px;
+    bottom: 654px;
+}
+.logo {
+    position: relative;
+    left: 85px;
+    top: -60px;
+}
+.img-logo{
+    border-radius: 50%;
+}
+.fondo {
+    position: relative;
+}
+
+.me-gusta {
+    bottom: 305px;
+    left: 20px;
+    position: relative;
+}
+
+.nombre {
+    position: relative;
+    bottom: 100px;
+}
+
+h2 {
+    font-family: 'Roboto';
+    font-weight: 800;
+    font-size: 30px;
+    text-align: center;
+}
+.texto {
+    position: relative;
+    bottom: 130px;
+}
+p {
+    position: relative;
+    padding: 18px;
+    font-size: 16px;
+    font-family: Roboto;
+    font-weight: 600;
+    color: #333333;
+}
+button {
+    position:relative;
+    width: 128.78px;
+    height: 48.52px;
+    bottom: 140px;
+    left: 80px;
+    background: #00669F;
+    color: #F3F3F3;
+    border: 0px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 15px;
+}
+
+/*FOOTER*/
+.rectangulo-footer {
+    width: 1008px;
+    height: 51px;
+    background-color: #00669F;
+    color: white;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    display: flex;
+    align-items: center;
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 16px;
+    padding-left: 16px;
+}
+
+main {
+    height: 700px;
+}
