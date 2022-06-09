@@ -1,7 +1,11 @@
+* {
+    box-sizing: border-box;
+}
 /*HEADER*/
+
 .rectangulo1-header {
     height: 38px;
-    width: 1016px;
+    width: 1024px;
     background: #1CD1B0;
     display: flex;
     align-items: center;
@@ -13,7 +17,7 @@
 }
 .rectangulo2-header {
     height: 101px;
-    width: 1004px;
+    width: 1024px;
     background: #00669F;
     box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
     margin: 0px;
@@ -113,7 +117,7 @@ button {
 
 /*FOOTER*/
 .rectangulo-footer {
-    width: 1008px;
+    width: 1024px;
     height: 51px;
     background-color: #00669F;
     color: white;
